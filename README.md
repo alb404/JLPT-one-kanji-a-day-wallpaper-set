@@ -7,6 +7,8 @@ The idea of this wallpaper set is to set your wallpaper to change every day (or 
 
 Translations and examples are graciously borrowed from http://www.jlptstudy.net. You can report eventual errors on the forum: http://www.jlptstudy.net/forum/
 
+## How to download
+Use the "Download ZIP" button on the right.
 
 ## How to create a wallpaper slideshow
 ### Windows: 
