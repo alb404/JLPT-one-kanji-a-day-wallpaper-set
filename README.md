@@ -2,7 +2,7 @@
 
 **Sample image**
 # Kanji wallpaper set for JLPT studies
-Wallpapers set with one kanji per image (.png) sorted by JLPT level (only the 103 kanji of JLPT N5 and 280 of N4 for now).
+Wallpapers set with one kanji per image (.png) sorted by JLPT level (N5 to N3 = 744 kanji so far).
 
 The idea behind this wallpaper set is to set your wallpaper to change every day (or whatever time duration you want) to a new Kanji.
 
